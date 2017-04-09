@@ -2,7 +2,7 @@
   "name": "da-ux",
   "version": "1.0.0",
   "description": "digital alchemy user experience collection (daUX)",
-  "main": "app.js",
+  "main": "index.js",
   "directories": {
     "doc": "docs"
   },
