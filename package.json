@@ -1,0 +1,32 @@
+{
+  "name": "da-ux",
+  "version": "1.0.0",
+  "description": "digital alchemy user experience collection (daUX)",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaseinUXD/daUX.git"
+  },
+  "keywords": [
+    "uxd",
+    "user",
+    "experience",
+    "style",
+    "guide",
+    "ui",
+    "user",
+    "interface"
+  ],
+  "author": "mark w. matthews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaseinUXD/daUX/issues"
+  },
+  "homepage": "https://github.com/DaseinUXD/daUX#readme"
+}
