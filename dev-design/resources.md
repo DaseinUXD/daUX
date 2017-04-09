@@ -1,2 +1,2 @@
-##Developer and Designer Resources
+#Developer and Designer Resources
 A collection including...
